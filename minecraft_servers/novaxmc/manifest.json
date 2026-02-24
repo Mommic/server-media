@@ -1,7 +1,7 @@
 {
-  "server_name": "laby",
-  "nice_name": "LabyMod",
-  "direct_ip": "play.laby.net",
+  "server_name": "novaxmc",
+  "nice_name": "NovaxMc",
+  "direct_ip": "NovaxMc.de",
   "server_wildcards": [
     "%.laby.net"
   ],
